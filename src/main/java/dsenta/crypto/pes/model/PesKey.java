@@ -28,8 +28,8 @@ import java.util.List;
 import java.util.Objects;
 import java.util.stream.Collectors;
 
-import redbms.crypto.pes.utils.ByteUtils;
-import redbms.crypto.pes.utils.Pcg;
+import dsenta.crypto.pes.utils.ByteUtils;
+import dsenta.crypto.pes.utils.Pcg;
 
 public class PesKey {
     private final int NO_OF_CYCLES = 11;

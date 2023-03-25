@@ -25,7 +25,7 @@ package dsenta.crypto.pes.random;
 
 import java.time.Instant;
 
-import redbms.crypto.pes.utils.Pcg;
+import dsenta.crypto.pes.utils.Pcg;
 
 public final class PesRandom {
 
